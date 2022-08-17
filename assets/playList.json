@@ -1,32 +1,32 @@
 [
     {
-        title: 'Aqua Caelestis',
-        src: '../assets/sounds/Aqua Caelestis.mp3',
-        duration: '00:58'
+        "title": 'Aqua Caelestis',
+        "src": '../assets/sounds/Aqua Caelestis.mp3',
+        "duration": '00:58'
     },
     {
-        title: 'River Flows In You',
-        src: '../assets/sounds/River Flows In You.mp3',
-        duration: '03:50'
+        "title": 'River Flows In You',
+        "src": '../assets/sounds/River Flows In You.mp3',
+        "duration": '03:50'
     },
     {
-        title: 'Ennio Morricone',
-        src: '../assets/sounds/Ennio Morricone.mp3',
-        duration: '01:37'
+        "title": 'Ennio Morricone',
+        "src": '../assets/sounds/Ennio Morricone.mp3',
+        "duration": '01:37'
     },
     {
-        title: 'Summer Wind',
-        src: '../assets/sounds/Summer Wind.mp3',
-        duration: '01:50'
+        "title": 'Summer Wind',
+        "src": '../assets/sounds/Summer Wind.mp3',
+        "duration": '01:50'
     },
     {
-        title: 'В.Котляров - Я так соскучился',
-        src: 'https://data.gybka.com/listen/171317207/anFyS010TGdCWmRZb3ErVFFqWDVWZ1p0Y2dNMTZXUGZCeWVWZG5kSENMY3ZkZVN2NkFCa3ZENTlyaFNlbG90SGlRTWllY2swU1FXbjNOcTFYUW9KdlcxMU5RaW9JR0dIN0prcGJlUFFGc2RlbnZObG56M2JGZEw2UnR1bFM1eFc/Volodya_Kotlyarov_-_YA_Tak_Soskuchilsya_(Gybka.com).mp3',
-        duration: '05:56'
+        "title": 'В.Котляров - Я так соскучился',
+        "src": 'https://data.gybka.com/listen/171317207/anFyS010TGdCWmRZb3ErVFFqWDVWZ1p0Y2dNMTZXUGZCeWVWZG5kSENMY3ZkZVN2NkFCa3ZENTlyaFNlbG90SGlRTWllY2swU1FXbjNOcTFYUW9KdlcxMU5RaW9JR0dIN0prcGJlUFFGc2RlbnZObG56M2JGZEw2UnR1bFM1eFc/Volodya_Kotlyarov_-_YA_Tak_Soskuchilsya_(Gybka.com).mp3',
+        "duration": '05:56'
     },
     {
-        title: 'Король и шут - Прыгну со скалы',
-        src: 'https://data.gybka.com/file/4749729/anFyS010TGdCWmRZb3ErVFFqWDVWZ1p0Y2dNMTZXUGZCeWVWZG5kSENMZVJIdkZ1eTVncUJiYkNmdUVxNlB5ZFBuczFYRENaWnBSN2J1SW5LZ3dQTE9YaTFqaWUwRzVQcFp6d3NhY01oNTRuNkJKNUFVVlFrUmVPeS90Ry8zblk/Korol_I_SHut_-_Razbezhavshis_prygnu_so_skaly_(Gybka.com).mp3',
-        duration: '03:13'
+        "title": 'Король и шут - Прыгну со скалы',
+        "src": 'https://data.gybka.com/file/4749729/anFyS010TGdCWmRZb3ErVFFqWDVWZ1p0Y2dNMTZXUGZCeWVWZG5kSENMZVJIdkZ1eTVncUJiYkNmdUVxNlB5ZFBuczFYRENaWnBSN2J1SW5LZ3dQTE9YaTFqaWUwRzVQcFp6d3NhY01oNTRuNkJKNUFVVlFrUmVPeS90Ry8zblk/Korol_I_SHut_-_Razbezhavshis_prygnu_so_skaly_(Gybka.com).mp3',
+        "duration": '03:13'
     }
 ]
